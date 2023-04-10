@@ -64,10 +64,10 @@
             "Recommended"
         ],
         "images": [
-            "https://www.planetware.com/photos-large/F/eiffel-tower.jpg",
+            "https://www.tripsavvy.com/thmb/TzIG8GWE2VMPfGxPsSSmoyXfPYA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAM_3402-08aeec8bf338425791ce0825cb205e9a.jpg",
             "https://www.thetrainline.com/cms/media/1360/france-eiffel-tower-paris.jpg?mode=crop&width=1080&height=1080&quality=70",
             "https://www.grunge.com/img/gallery/the-bizarre-history-of-the-eiffel-tower/l-intro-1602781703.jpg",
-            "https://th-thumbnailer.cdn-si-edu.com/Q-oOOYwzuhWGLlUa0NvS4jbMGoI=/fit-in/1600x0/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/0f/040fc6b3-2c00-4592-9993-8c0c485fcf99/gettyimages-142198198.jpg"
+            "https://cdn.britannica.com/67/114967-050-A8998445/Eiffel-Tower-Paris-Gustave.jpg"
         ],
         "coordinates": {
             "lat": 48.8584,
@@ -94,6 +94,28 @@
         "coordinates": {
             "lat": 43.7230,
             "lon": 10.3966
+        }
+    },
+    {
+        "id": 5,
+        "name": "ITC",
+        "city": "TP.HCM",
+        "country": "VietNam",
+        "entry_price": "$25",
+        "address": "12 Trịnh Đình Thảo, phường Hòa Thạnh, quận Tân Phú",
+        "opening_time": "7:00 AM",
+        "closing_time": "05:00 PM",
+        "categories": [
+            "Trending"
+        ],
+        "images": [
+            "https://reviewedu.net/wp-content/uploads/2021/10/truong-cao-dang-cong-nghe-thong-tin-tphcm-3.jpg",
+            "https://reviewedu.net/wp-content/uploads/2021/10/truong-cao-dang-cong-nghe-thong-tin-tphcm-2.jpg",
+            "https://reviewedu.net/wp-content/uploads/2021/09/truong-dao-tao-cong-nghe-thong-tin-tphcm-cao-dang-cong-nghe-thong-tin-tphcm.jpg"
+        ],
+        "coordinates": {
+            "lat": 10.774919165329,
+            "lon": 106.63431273902846
         }
     }
 ]
